@@ -6,14 +6,14 @@
 ## File List
  Source File | Status | Details 
  ----------- | ------ | ------- 
- [articles\active-directory\active-directory-aadconnect-health-adfs.md](https://github.com/OpenLocalizationOrg/hyperV/blob/ac3d9de1a87b664ce513a97036d508fabdb75d0f/articles/active-directory/active-directory-aadconnect-health-adfs.md) | HandedOffSuccess | [Details](#e9503795ad42cf3a631af363a255564c6f36549711)
+ [virtualization\community\community_overview.md](https://github.com/OpenLocalizationOrg/hyperV/blob/2fe86c8a94e3fd9fd366e8574eb03b640b5e0667/virtualization/community/community_overview.md) | HandedOffSuccess | [Details](#8e5b907b0be3cf20d7d49488af7e13337ac934fe1400)
 
 ## Item Details
-##### <a name='e9503795ad42cf3a631af363a255564c6f36549711'></a> Source: [articles\active-directory\active-directory-aadconnect-health-adfs.md](https://github.com/OpenLocalizationOrg/hyperV/blob/ac3d9de1a87b664ce513a97036d508fabdb75d0f/articles/active-directory/active-directory-aadconnect-health-adfs.md)
+##### <a name='8e5b907b0be3cf20d7d49488af7e13337ac934fe1400'></a> Source: [virtualization\community\community_overview.md](https://github.com/OpenLocalizationOrg/hyperV/blob/2fe86c8a94e3fd9fd366e8574eb03b640b5e0667/virtualization/community/community_overview.md)
 * Status: HandedOffSuccess
 * Target File: 
-* Handoff File: [active-directory-aadconnect-health-adfs.a1c1552f5202530ca6f8a9c938a9e9e36ad5da7e.nl-nl.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/6662d825595933517c25f297a9e1c118a0ced0b4/ol-handoff/OpenLocalizationOrg/hyperV.nl-nl/master/acomdc_nonhi/active-directory-aadconnect-health-adfs.a1c1552f5202530ca6f8a9c938a9e9e36ad5da7e.nl-nl.xlf)
-* Handoff Datetime: 2016-03-30 03:59:40
+* Handoff File: [community_overview.4d3cb46b3cb0b5d520b8240070543e6c2549b923.nl-nl.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/92daf281e2ee8dad47a3060daf46dbb9ff7e8357/ol-handoff/OpenLocalizationOrg/hyperV.nl-nl/master/acomdc_nonhi/community_overview.4d3cb46b3cb0b5d520b8240070543e6c2549b923.nl-nl.xlf)
+* Handoff Datetime: 2016-03-31 17:49:17
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
